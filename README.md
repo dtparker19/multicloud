@@ -76,7 +76,7 @@ Project Structure
       │   └── main.html
       └── pages
           ├── placeholder.about.html
-          └── placeholder.home.html
+          └── home.html
   ```
 
 ### Screenshots
